@@ -65,6 +65,3 @@ It accepts symptoms, applies medical IF–THEN rules, performs multi-step infere
 - Karachi, Pakistan 
 
 **_⭐ If you like this project, give it a star!_**
-```bash
-pip install streamlit
-streamlit run app.py
