@@ -14,8 +14,7 @@ It accepts symptoms, applies medical IF–THEN rules, performs multi-step infere
 
 ## 🚀 Live Demo
 
-🔗 **Live App:** https://your-live-app-link.streamlit.app  
-(Replace with your deployed Streamlit link)
+🔗 **Live App:** https://syntecxapp-internship---madical-rule-based-expert-system-qerl7.streamlit.app/ 
 
 ---
 
