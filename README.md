@@ -1,7 +1,7 @@
 # 🩺 Medical Rule-Based Expert Doctor System
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red)
+![Python](https://img.shields.io/badge/Python-3.11+-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-%20App-red)
 ![AI](https://img.shields.io/badge/AI-Expert%20System-green)
 ![Inference](https://img.shields.io/badge/Logic-Forward%20Chaining-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
@@ -21,12 +21,10 @@ It accepts symptoms, applies medical IF–THEN rules, performs multi-step infere
 ## 📸 Screenshots
 
 ### 🖥️ Dashboard View
-![App Screenshot](https://github.com/foziaali1122/Syntecxhub-Internship---Madical-Rule-Based-Expert-System/blob/master/Medical%20Expert%20Doctor%20System%20%C2%B7%20Streamlit%20-%20Google%20Chrome%202_24_2026%207_58_04%20AM.png)
+![App Screenshot](https://github.com/foziaali1122/Syntecxhub-Internship---Madical-Rule-Based-Expert-System/blob/master/Medical%20Expert%20Doctor%20System%20%C2%B7%20Streamlit%20-%20Google%20Chrome%202_24_2026%207_57_44%20AM.png)
 
 ### 🧠 Reasoning & Diagnosis
-![Diagnosis Screenshot](screenshots/diagnosis.png)
-
-(Add your images inside a folder named `screenshots`)
+![Diagnosis Screenshot](https://github.com/foziaali1122/Syntecxhub-Internship---Madical-Rule-Based-Expert-System/blob/master/Medical%20Expert%20Doctor%20System%20%C2%B7%20Streamlit%20-%20Google%20Chrome%202_24_2026%207_58_04%20AM.png)
 
 ---
 
