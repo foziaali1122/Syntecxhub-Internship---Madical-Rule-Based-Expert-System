@@ -23,9 +23,6 @@ It accepts symptoms, applies medical IF–THEN rules, performs multi-step infere
 ### 🖥️ Dashboard View
 ![App Screenshot](https://github.com/foziaali1122/Syntecxhub-Internship---Madical-Rule-Based-Expert-System/blob/master/Medical%20Expert%20Doctor%20System%20%C2%B7%20Streamlit%20-%20Google%20Chrome%202_24_2026%207_57_44%20AM.png)
 
-### 🧠 Reasoning & Diagnosis
-![Diagnosis Screenshot](https://github.com/foziaali1122/Syntecxhub-Internship---Madical-Rule-Based-Expert-System/blob/master/Medical%20Expert%20Doctor%20System%20%C2%B7%20Streamlit%20-%20Google%20Chrome%202_24_2026%207_58_04%20AM.png)
-
 ---
 
 ## 🧠 How It Works
